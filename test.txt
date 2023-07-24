@@ -1,0 +1,5 @@
+Bijay, bijay1@gmail.com, 22, 6755, Bachelor of IT
+Samir, samir2@gmail.com, 23, 2213, Bachelor of Business Administration
+Manish, manish3@hotmail.com, 25, 1145, Master of IT
+Sujan, sujan164@gmail.com, 24, 4455, Master of Finance
+Bijay, bijay22@yahoo.com, 29, 1234, Doctor of Arts
